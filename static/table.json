@@ -1,0 +1,5 @@
+{
+  "seller": {
+    "table": [{"name": "首页", "path": "/home"}, {"name": "订单", "path": "/order"}, {"name": "我的", "path": "/mine"}]
+  }
+}
